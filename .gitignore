@@ -1,0 +1,19 @@
+# Çevresel değişkenler
+.env
+
+# IDE veya editör ayarları
+.vscode/
+.idea/
+
+# Python cache dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+.DS_Store
+.ipynb_checkpoints/
+*.ipynb
+*.bat
+
+# Günlük dosyaları
+logs/
